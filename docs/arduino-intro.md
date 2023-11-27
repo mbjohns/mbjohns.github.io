@@ -41,3 +41,5 @@ Santa's elves, in collaboration with visionary creators from around the world, a
   - **Digital**: For turning Christmas lights on and off.
   - **PWM**: Controls the brightness of Rudolph's nose.
   - **AREF**: Where we connect the spirit of Christmas for extra magical projects.
+
+[first look](../../assets/files/1.2 First Look Arduino.pdf)
