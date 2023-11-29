@@ -19,7 +19,7 @@ The engine's throttle control is unresponsive, and the stabilization system is o
 4. Adjust the controls to achieve a steady and controlled motor movement, signifying a stable engine.
 
 ## Resources
-- [DC Motor with Arduino Tutorial](link-to-dc-motor-arduino-tutorial.pdf)
+- [DC Motor with Arduino Tutorial](../assets/files/2.23 DC Motors/2.23 DC Motors.pdf)
 - [Analog Joystick with Arduino Tutorial](link-to-joystick-arduino-tutorial.pdf)
 - [Arduino Code Sample for Motor and Joystick Control](link-to-arduino-motor-joystick-code-sample.pdf)
 
