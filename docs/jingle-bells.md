@@ -10,10 +10,10 @@ permalink: /radio-reactivation/
 The FrostByte Flyer's communications system has been compromised following your crash landing. Your mission is to reactivate the radio to contact Santa’s Command Center. The key to this challenge lies in a piece of tattered sheet music for "Jingle Bells," which you need to complete both in terms of notes and timing.
 
 ## The Puzzle
-In the debris of the crash, you discover a fragment of sheet music. This crucial piece for "Jingle Bells" has some missing notes and lacks timing indications.
+In the debris of the crash, you discover a fragment of sheet music. This crucial piece for "Jingle Bells" has some missing notes. You also find musical timing information.
 
 ### Tattered Sheet Music
-
+[](../assets/images/jb_sheet.png)
 
 
 
@@ -24,7 +24,10 @@ In the debris of the crash, you discover a fragment of sheet music. This crucial
 4. Demonstrate your solution to successfully complete the challenge.
 
 ## Resources
-- [Active Buzzer with Arduino Tutorial](link-to-active-buzzer-tutorial.pdf)
-- [Arduino Code Sample for Playing Melodies with Timing](link-to-arduino-melody-timing-code-sample.pdf)
+- [Passive Buzzer Arduino Tutorial](../assets/files/2.6   Passive Buzzer/2.6  Passive Buzzer.pdf)
+- [Passive Buzzer Code Sample](../assets/files/2.6   Passive Buzzer/passive_buzzer/passive_buzzer.ino)
+- [Pitches Library](../assets/files/2.6   Passive Buzzer/pitches.zip)
+
+[](../assets/images/note_lengths.png)
 
 [Back to Challenges Overview](/challenges/)
