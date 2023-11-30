@@ -24,9 +24,9 @@ In the debris of the crash, you discover a fragment of sheet music. This crucial
 4. Demonstrate your solution to successfully complete the challenge.
 
 ## Resources
-- [Passive Buzzer Arduino Tutorial](../assets/files/2.6   Passive Buzzer/2.6  Passive Buzzer.pdf)
-- [Passive Buzzer Code Sample](../assets/files/2.6   Passive Buzzer/passive_buzzer/passive_buzzer.ino)
-- [Pitches Library](../assets/files/2.6   Passive Buzzer/pitches.zip)
+- [Passive Buzzer Arduino Tutorial](../assets/files/2.6%20Passive%20Buzzer/2.6 Passive Buzzer.pdf)
+- [Passive Buzzer Code Sample](../assets/files/2.6%20Passive%20Buzzer/passive_buzzer/passive_buzzer.ino)
+- [Pitches Library](../assets/files/2.6%20Passive%20Buzzer/pitches.zip)
 
 ![](../assets/images/note_lengths.png)
 
