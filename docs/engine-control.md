@@ -20,8 +20,9 @@ The engine's throttle control is unresponsive, and the stabilization system is o
 
 ## Resources
 - [DC Motor with Arduino Tutorial](../assets/files/2.23 DC Motors/2.23 DC Motors.pdf)
-- [Analog Joystick with Arduino Tutorial](link-to-joystick-arduino-tutorial.pdf)
-- [Arduino Code Sample for Motor and Joystick Control](link-to-arduino-motor-joystick-code-sample.pdf)
+- [DC Motor Sample Code](../assets/files/2.23 DC Motors/DC_Motor/DC_Motor.ino)
+- [Analog Joystick with Arduino Tutorial](../assets/files/2.12 Analog Joystick Module/2.12 Analog Joystick Module.pdf)
+- [Anolog Joystick Sample Code](../assets/files/2.12 Analog Joystick Module/Analog_Joystick/Analog_Joystick.ino)
 
 ## Stabilization Challenge
 "To keep the flight smooth and steady, your hands must be sure and ready.  
