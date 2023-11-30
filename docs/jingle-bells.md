@@ -13,7 +13,7 @@ The FrostByte Flyer's communications system has been compromised following your 
 In the debris of the crash, you discover a fragment of sheet music. This crucial piece for "Jingle Bells" has some missing notes. You also find musical timing information.
 
 ### Tattered Sheet Music
-[](../assets/images/jb_sheet.png)
+![](../assets/images/jb_sheet.png)
 
 
 
@@ -28,6 +28,6 @@ In the debris of the crash, you discover a fragment of sheet music. This crucial
 - [Passive Buzzer Code Sample](../assets/files/2.6   Passive Buzzer/passive_buzzer/passive_buzzer.ino)
 - [Pitches Library](../assets/files/2.6   Passive Buzzer/pitches.zip)
 
-[](../assets/images/note_lengths.png)
+![](../assets/images/note_lengths.png)
 
 [Back to Challenges Overview](/challenges/)
