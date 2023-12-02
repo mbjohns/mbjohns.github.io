@@ -17,7 +17,8 @@ Unfortunately the radar assembly is not intact, so you will need to reassemble i
 2. Connect the servo motor and ultrasonic sensor to your Arduino board.
 3. Program the Arduino to control the servo motor, making the radar sweep back and forth, and use the ultrasonic sensor to detect objects at specific distances.
 4. Adjust the calibration so that the radar accurately reflects the detection of objects.
-5. Wire up a buzzer and led to notify you when an object is detected.
+5. Wire up an LED to notify you when an object is detected.
+6. Wire up a buzzer and use pitch to indicate how close the detected object is.
 
 ## Resources
 ### Servo
