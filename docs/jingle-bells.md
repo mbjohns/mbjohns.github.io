@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Radio Reactivation Challenge"
-permalink: /radio-reactivation/
+nav_order: 3
 ---
 
 # Radio Reactivation Challenge

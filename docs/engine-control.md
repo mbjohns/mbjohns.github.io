@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Engine Control System Challenge"
-permalink: /engine-control-system/
+nav_order: 7
 ---
 
 # Engine Control System Challenge

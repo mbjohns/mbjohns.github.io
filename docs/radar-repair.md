@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Radar Repair Challenge"
-permalink: /radar-repair/
+nav_order: 6
 ---
 
 # Radar Repair Challenge

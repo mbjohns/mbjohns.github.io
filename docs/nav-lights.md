@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Navigation Lights Reactivation Challenge"
-permalink: /navigation-lights-reactivation/
+nav_order: 4
 ---
 
 # Navigation Lights Reactivation Challenge
