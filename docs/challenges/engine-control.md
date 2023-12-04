@@ -1,10 +1,13 @@
 ---
-layout: page
-title: "Engine Control System Challenge"
-nav_order: 7
+layout: default
+title: 5 - Engine Control System
+parent: Challenges
+nav_order: 5
 ---
 
 # Engine Control System Challenge
+_To keep the flight smooth and steady, your hands must be sure and ready._  
+_Guide the engine's roar and hum, until the perfect balance has come._
 
 ## Mission Briefing
 The engine of the FrostByte Flyer has been disrupted, and its control system is out of balance. Your objective is to stabilize and regain control of the engine using a DC motor and an analog joystick. This task simulates the fine-tuning needed to keep the sleigh's engine running smoothly under harsh Arctic conditions.
@@ -24,8 +27,4 @@ The engine's throttle control is unresponsive, and the stabilization system is o
 - [Analog Joystick with Arduino Tutorial](../assets/files/2.12 Analog Joystick Module/2.12 Analog Joystick Module.pdf)
 - [Anolog Joystick Sample Code](../assets/files/2.12 Analog Joystick Module/Analog_Joystick/Analog_Joystick.ino)
 
-## Stabilization Challenge
-"To keep the flight smooth and steady, your hands must be sure and ready.  
-Guide the engine's roar and hum, until the perfect balance has come."
-
-[Back to Challenges Overview](/challenges/)
+[Back to Challenges Overview](/docs/challenges/)
