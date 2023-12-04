@@ -25,7 +25,7 @@ You find the navigation light panel with several unlit LEDs and a jumbled mess o
 - [Digital Inputs](../assets/files/2.3 Digital Inputs/2.3 Digital Inputs.pdf)
 - [Digital Inputs Sample Code](../assets/files/2.3 Digital Inputs/Digital_Inputs/Digital_Inputs.ino)
 
-![](../assets/images/lights.png)
+![](../assets/images/lights.jpg)
 
 1. Navigation lights
 2. Aft Light
