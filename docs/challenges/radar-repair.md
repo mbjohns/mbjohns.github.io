@@ -1,10 +1,13 @@
 ---
-layout: page
-title: "Radar Repair Challenge"
-nav_order: 6
+layout: default
+title: 4 - Radar Repair
+parent: Challenges
+nav_order: 4
 ---
 
 # Radar Repair Challenge
+_To ensure a safe flight path, align the radar's wrath._  
+_When the distant bell chimes thrice, your calibration is precise._
 
 ## Mission Briefing
 The radar system of the FrostByte Flyer, crucial for navigation and obstacle avoidance, has malfunctioned. You need to repair and recalibrate it using a servo motor and an ultrasonic sensor to ensure safe travel through the Arctic skies.
@@ -31,9 +34,8 @@ Unfortunately the radar assembly is not intact, so you will need to reassemble i
 - [Code Sample for Ultrasonic Sensor](../assets/files/2.9 Ultrasonic Sensor Module/SR04_Example/SR04_Example.ino)
 - [Ultrasonic Sensor Library](../assets/files/2.9 Ultrasonic Sensor Module/HC-SR04.zip)
 
+<span class="fs-8">
+[Next Challenge](/docs/engine-control/){: .btn .btn-green }
+</span>
 
-## Calibration Challenge
-"To ensure a safe flight path, align the radar's wrath.  
-When the distant bell chimes thrice, your calibration is precise."
-
-[Back to Challenges Overview](/challenges/)
+[Back to Challenges Overview](/docs/challenges/)
