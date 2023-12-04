@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "FrostByte Flyer Launch"
-permalink: /launch/
 ---
 
 <video width="512" height="290" controls>
