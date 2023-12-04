@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dynamic Power Gauge Challenge"
-permalink: /dynamic-power-gauge/
+nav_order: 5
 ---
 
 # Dynamic Power Gauge Challenge
