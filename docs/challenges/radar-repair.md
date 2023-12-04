@@ -35,7 +35,7 @@ Unfortunately the radar assembly is not intact, so you will need to reassemble i
 - [Ultrasonic Sensor Library](../../assets/files/2.9 Ultrasonic Sensor Module/HC-SR04.zip)
 
 <span class="fs-8">
-[Next Challenge](/docs/challenges/engine-control/){: .btn .btn-green }
+[Next Challenge](/docs/challenges/engine-control.html){: .btn .btn-green }
 </span>
 
 [Back to Challenges Overview](/docs/challenges/)

@@ -33,7 +33,7 @@ In the debris of the crash, you discover a fragment of sheet music. This crucial
 ![](../../assets/images/note_lengths.png)
 
 <span class="fs-8">
-[Next Challenge](/docs/challenges/nav-lights/){: .btn .btn-green }
+[Next Challenge](/docs/challenges/nav-lights.html){: .btn .btn-green }
 </span>
 
 [Back to Challenges Overview](/docs/challenges/)

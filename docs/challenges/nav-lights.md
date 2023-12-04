@@ -34,7 +34,7 @@ You find the navigation light panel with several unlit LEDs and a jumbled mess o
 3. Anti-collision strobe
 
 <span class="fs-8">
-[Next Challenge](/docs/challenges/power-gauge/){: .btn .btn-green }
+[Next Challenge](/docs/challenges/power-gauge.html){: .btn .btn-green }
 </span>
 
 [Back to Challenges Overview](/docs/challenges/)

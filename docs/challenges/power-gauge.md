@@ -28,7 +28,7 @@ The power gauge is crucial for understanding the sleigh's current energy status.
 
 
 <span class="fs-8">
-[Next Challenge](/docs/challenges/radar-repair/){: .btn .btn-green }
+[Next Challenge](/docs/challenges/radar-repair.html){: .btn .btn-green }
 </span>
 
 [Back to Challenges Overview](/docs/challenges/)
