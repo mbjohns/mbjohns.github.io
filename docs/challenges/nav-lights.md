@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Navigation Lights Reactivation Challenge"
-nav_order: 4
+layout: default
+title: 2 - Navigation Lights Reactivation
+parent: Challenges
+nav_order: 2
 ---
 
 # Navigation Lights Reactivation Challenge
@@ -31,4 +32,8 @@ You find the navigation light panel with several unlit LEDs and a jumbled mess o
 2. Aft Light
 3. Anti-collision strobe
 
-[Back to Challenges Overview](/challenges/)
+<span class="fs-8">
+[Next Challenge](/docs/power-gauge/){: .btn .btn-green }
+</span>
+
+[Back to Challenges Overview](/docs/challenges/)
