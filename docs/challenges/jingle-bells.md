@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Radio Reactivation Challenge"
-nav_order: 3
+layout: default
+title: 1 - Radio Reactivation
+parent: Challenges
+nav_order: 1
 ---
 
 # Radio Reactivation Challenge
@@ -30,4 +31,8 @@ In the debris of the crash, you discover a fragment of sheet music. This crucial
 
 ![](../assets/images/note_lengths.png)
 
-[Back to Challenges Overview](/challenges/)
+<span class="fs-8">
+[Next Challenge](/docs/nav-lights/){: .btn .btn-green }
+</span>
+
+[Back to Challenges Overview](/docs/challenges/)
