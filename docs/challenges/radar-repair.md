@@ -25,17 +25,17 @@ Unfortunately the radar assembly is not intact, so you will need to reassemble i
 
 ## Resources
 ### Servo
-- [Servo Motor Tutorial](../assets/files/2.8 Servo/2.8 Servo.pdf)
-- [Code Sample for Servo](../assets/files/2.8 Servo/Sweep.ino)
-- [Servo Library](../assets/files/2.8 Servo/Servo.zip)
+- [Servo Motor Tutorial](../../assets/files/2.8 Servo/2.8 Servo.pdf)
+- [Code Sample for Servo](../../assets/files/2.8 Servo/Sweep.ino)
+- [Servo Library](../../assets/files/2.8 Servo/Servo.zip)
 
 ### Ultrasonic Sensor
-- [Ultrasonic Sensor Tutorial](../assets/files/2.9 Ultrasonic Sensor Module/2.9 Ultrasonic Sensor Module.pdf)
-- [Code Sample for Ultrasonic Sensor](../assets/files/2.9 Ultrasonic Sensor Module/SR04_Example/SR04_Example.ino)
-- [Ultrasonic Sensor Library](../assets/files/2.9 Ultrasonic Sensor Module/HC-SR04.zip)
+- [Ultrasonic Sensor Tutorial](../../assets/files/2.9 Ultrasonic Sensor Module/2.9 Ultrasonic Sensor Module.pdf)
+- [Code Sample for Ultrasonic Sensor](../../assets/files/2.9 Ultrasonic Sensor Module/SR04_Example/SR04_Example.ino)
+- [Ultrasonic Sensor Library](../../assets/files/2.9 Ultrasonic Sensor Module/HC-SR04.zip)
 
 <span class="fs-8">
-[Next Challenge](/docs/engine-control/){: .btn .btn-green }
+[Next Challenge](/docs/challenges/engine-control/){: .btn .btn-green }
 </span>
 
 [Back to Challenges Overview](/docs/challenges/)

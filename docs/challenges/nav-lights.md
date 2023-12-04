@@ -22,18 +22,19 @@ You find the navigation light panel with several unlit LEDs and a jumbled mess o
 4. Test your setup to ensure all lights function correctly and in the proper sequence.
 
 ## Resources
-- [LEDs with Arduino Tutorial](../assets/files/2.1 LED.pdf)
-- [Digital Inputs](../assets/files/2.3 Digital Inputs/2.3 Digital Inputs.pdf)
-- [Digital Inputs Sample Code](../assets/files/2.3 Digital Inputs/Digital_Inputs/Digital_Inputs.ino)
+- [LEDs with Arduino Tutorial](../../assets/files/2.1 LED.pdf)
+- [Digital Inputs](../../assets/files/2.3 Digital Inputs/2.3 Digital Inputs.pdf)
+- [Digital Inputs Sample Code](../../assets/files/2.3 Digital Inputs/Digital_Inputs/Digital_Inputs.ino)
 
-![](../assets/images/lights.jpg)
+### Aircraft Nav Lights
+![](../../assets/images/lights.jpg)
 
 1. Navigation lights
 2. Aft Light
 3. Anti-collision strobe
 
 <span class="fs-8">
-[Next Challenge](/docs/power-gauge/){: .btn .btn-green }
+[Next Challenge](/docs/challenges/power-gauge/){: .btn .btn-green }
 </span>
 
 [Back to Challenges Overview](/docs/challenges/)

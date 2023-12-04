@@ -23,12 +23,12 @@ The power gauge is crucial for understanding the sleigh's current energy status.
 
 ## Resources
 - [Reading Potentiometers](https://docs.arduino.cc/learn/electronics/potentiometer-basics)
-- [LED Control with 74HC595 Shift Register](../assets/files/2.22 Eight LED with 74HC595/2.22 Eight Led with 74hc595.pdf)
-- [Code Sample for LED Control with 74HC595](../assets/files/2.22 Eight LED with 74HC595/Eight_LED_with_74HC595_Flash_LED/Eight_LED_with_74HC595_Flash_LED.ino)
+- [LED Control with 74HC595 Shift Register](../../assets/files/2.22 Eight LED with 74HC595/2.22 Eight Led with 74hc595.pdf)
+- [Code Sample for LED Control with 74HC595](../../assets/files/2.22 Eight LED with 74HC595/Eight_LED_with_74HC595_Flash_LED/Eight_LED_with_74HC595_Flash_LED.ino)
 
 
 <span class="fs-8">
-[Next Challenge](/docs/radar-repair/){: .btn .btn-green }
+[Next Challenge](/docs/challenges/radar-repair/){: .btn .btn-green }
 </span>
 
 [Back to Challenges Overview](/docs/challenges/)
