@@ -5,6 +5,8 @@ nav_order: 4
 ---
 
 # Navigation Lights Reactivation Challenge
+_Guided by the stars above, align the colors with care and love._  
+_Red to port, green to starboard, steady and bright, guide this frosty night._
 
 ## Mission Briefing
 The crash has damaged the FrostByte Flyer's navigation lights, essential for signaling and navigating through the harsh Arctic skies. Your task is to restore these lights by correctly configuring and programming a series of LEDs.
@@ -19,11 +21,14 @@ You find the navigation light panel with several unlit LEDs and a jumbled mess o
 4. Test your setup to ensure all lights function correctly and in the proper sequence.
 
 ## Resources
-- [LEDs with Arduino Tutorial](link-to-led-arduino-tutorial.pdf)
-- [Arduino Code Sample for Controlling Multiple LEDs](link-to-arduino-multiple-leds-code-sample.pdf)
+- [LEDs with Arduino Tutorial](../assets/files/2.1 LED.pdf)
+- [Digital Inputs](../assets/files/2.3 Digital Inputs/2.3 Digital Inputs.pdf)
+- [Digital Inputs Sample Code](../assets/files/2.3 Digital Inputs/Digital_Inputs/Digital_Inputs.ino)
 
-## Clue for LED Sequence
-"Guided by the stars above, align the colors with care and love.  
-Red to port, green to starboard, steady and bright, guide this frosty night."
+![](../assets/images/lights.png)
+
+1. Navigation lights
+2. Aft Light
+3. Anti-collision strobe
 
 [Back to Challenges Overview](/challenges/)
