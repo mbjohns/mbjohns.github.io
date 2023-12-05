@@ -30,5 +30,5 @@ Your task is simple: embark on a brief flight around the North Pole airspace. Th
 While this flight is just a standard procedure, remember, every moment at the controls of the FrostByte Flyer is an opportunity to learn and grow as an engineer. Enjoy the flight, and see you back soon for the continuation of your training!
 
 <span class="fs-8">
-[Launch Mission](docs/training/launch.html){: .btn .btn-green }
+[Launch Mission](/launch.html){: .btn .btn-green }
 </span>

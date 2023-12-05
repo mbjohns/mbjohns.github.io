@@ -12,5 +12,5 @@ nav_order: 3
 
 
 <span class="fs-8">
-[Survive](docs/challenges/){: .btn .btn-red }
+[Survive](../docs/challenges/){: .btn .btn-red }
 </span>
