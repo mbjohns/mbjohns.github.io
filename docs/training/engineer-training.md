@@ -40,7 +40,7 @@ With the completion of these initial tutorials, you'll possess the foundational 
 Best of luck, engineers! You're about to become an integral part of Santa's most ambitious Christmas operation yet. There's a short demonstration flight due to take off shortly, make sure you're on it!
 
 <span class="fs-8">
-[Flight Briefing](/demo-flight.html){: .btn .btn-green }
+[Flight Briefing](/docs/training/demo-flight.html){: .btn .btn-green }
 </span>
 
 [Back to Training Overview](/docs/training/)
