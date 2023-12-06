@@ -5,6 +5,8 @@ parent: Training
 nav_order: 3
 ---
 
+# Flight of the FrostByte Flyer
+
 <video width="512" height="290" controls>
   <source src="../../assets/images/F1.mp4" type="video/mp4">
     Your browser does not support the video tag.
