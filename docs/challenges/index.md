@@ -6,7 +6,7 @@ has_children: true
 ---
 
 # Post-Crash: Urgent Repair Mission
-![](../../assets/images/post_crash.png)
+![](../../assets/images/post_crash.jpg)
 
 ## Situation Update
 You find yourself in an unexpected situation. The FrostByte Flyer has crash-landed in a remote, snowy wilderness. Fortunately, the sleigh's advanced safety systems have done their job remarkably well. Everyone is safe, with only a few bumps and bruises to show for the ordeal.

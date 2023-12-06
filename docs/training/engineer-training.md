@@ -10,7 +10,7 @@ nav_order: 1
 ## Introduction
 Greetings, future flight engineers of the FrostByte Flyer! You're about to embark on an exciting journey into the world of Arduino, where cutting-edge technology meets the magic of the holiday season. This manual will guide you through the essential skills needed to operate the most advanced and reliable sleigh ever designed.
 
-![](../../assets/images/frostbyte_flyer.png)
+![](../../assets/images/frostbyte_flyer.jpg)
 
 ## Objective
 Your training will equip you with the technical know-how to handle the sophisticated systems aboard the FrostByte Flyer. We'll start with the basics of Arduino and progress through the intricacies of the development environment, preparing you for any scenario... though, with the Flyer's stellar reliability record, it's unlikely you'll encounter any troubles.

@@ -10,7 +10,7 @@ nav_order: 2
 ## Mission Briefing
 Welcome back, flight engineers! You've done an excellent job with your initial training. Now, it's time to put that knowledge to the test with a short demonstration flight. This routine mission is designed to let you experience the FrostByte Flyer's capabilities and to 'stretch its legs', so to speak.
 
-![](../../assets/images/fbf.png)
+![](../../assets/images/fbf.jpg)
 
 ## Objective
 Your task is simple: embark on a brief flight around the North Pole airspace. This will be a standard, controlled loop, just to ensure all systems are functioning smoothly post-training. You'll be due to resume your advanced training upon your return.
