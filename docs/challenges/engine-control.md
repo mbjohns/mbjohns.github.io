@@ -19,7 +19,7 @@ The engine's throttle control is unresponsive, and the stabilization system is o
 1. Connect the DC motor and the analog joystick to your Arduino board.
 2. Program the Arduino to use the joystick for controlling the speed and direction of the DC motor.
 3. Test the setup to ensure responsive and stable control of the motor, representing the engine's throttle.
-4. Adjust the controls to achieve a steady and controlled motor movement, signifying a stable engine.
+4. Wire up the dynamic gauge to indicate engine power levels.
 
 ## Resources
 - [DC Motor with Arduino Tutorial](../../assets/files/2.23 DC Motors/2.23 DC Motors.pdf)
